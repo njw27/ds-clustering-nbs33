@@ -1,3 +1,5 @@
-# ds-clustering
+# Clustering
 
-This repository describes various clustering techniques for unsupervised learning problems. It was created with love by the Flatiron School.
+Two parts:
+1. [K-Means Clustering](./KMeansClustering)
+2. [Hierarchical Clustering](./HierarchicalClustering)
