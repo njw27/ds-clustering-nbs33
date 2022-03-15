@@ -1,4 +1,4 @@
-def k_means(X, Y, k=2):
+def k_means(X, Y, k=2, random_state=42):
     """This function will calculate and plot k-means clusters for two-dimensional data input as X and Y"""
     from matplotlib import pyplot as plt
     import random
